@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\ElCaminoDev1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87903326-D90B-AB5B-1353-CD9FC3030F64}|Assembly-CSharp.csproj|c:\\users\\andre\\elcaminodev1\\assets\\_scripts\\controladorescenas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87903326-D90B-AB5B-1353-CD9FC3030F64}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\controladorescenas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andre\\ElCaminoDev1\\Assets\\_Scripts\\CambioEscena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_Scripts\\CambioEscena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87903326-D90B-AB5B-1353-CD9FC3030F64}|Assembly-CSharp.csproj|C:\\Users\\andre\\ElCaminoDev1\\assets\\_scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87903326-D90B-AB5B-1353-CD9FC3030F64}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87903326-D90B-AB5B-1353-CD9FC3030F64}|Assembly-CSharp.csproj|C:\\Users\\andre\\ElCaminoDev1\\assets\\_scripts\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87903326-D90B-AB5B-1353-CD9FC3030F64}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87903326-D90B-AB5B-1353-CD9FC3030F64}|Assembly-CSharp.csproj|C:\\Users\\andre\\ElCaminoDev1\\assets\\_scripts\\itempickable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87903326-D90B-AB5B-1353-CD9FC3030F64}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\itempickable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87903326-D90B-AB5B-1353-CD9FC3030F64}|Assembly-CSharp.csproj|C:\\Users\\andre\\ElCaminoDev1\\assets\\_scripts\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87903326-D90B-AB5B-1353-CD9FC3030F64}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87903326-D90B-AB5B-1353-CD9FC3030F64}|Assembly-CSharp.csproj|C:\\Users\\andre\\ElCaminoDev1\\assets\\_scripts\\inventoryslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87903326-D90B-AB5B-1353-CD9FC3030F64}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\inventoryslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87903326-D90B-AB5B-1353-CD9FC3030F64}|Assembly-CSharp.csproj|C:\\Users\\andre\\ElCaminoDev1\\assets\\_scripts\\itemso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87903326-D90B-AB5B-1353-CD9FC3030F64}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\itemso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ControladorEscenas.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\ElCaminoDev1\\Assets\\_Scripts\\ControladorEscenas.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\ControladorEscenas.cs",
+              "ToolTip": "C:\\Users\\andre\\ElCaminoDev1\\Assets\\_Scripts\\ControladorEscenas.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\ControladorEscenas.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T14:23:08.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CambioEscena.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\ElCaminoDev1\\Assets\\_Scripts\\CambioEscena.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\CambioEscena.cs",
+              "ToolTip": "C:\\Users\\andre\\ElCaminoDev1\\Assets\\_Scripts\\CambioEscena.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\CambioEscena.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T14:21:52.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "itemPickable.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\ElCaminoDev1\\Assets\\_Scripts\\itemPickable.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\itemPickable.cs",
+              "ToolTip": "C:\\Users\\andre\\ElCaminoDev1\\Assets\\_Scripts\\itemPickable.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\itemPickable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T10:04:53.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\ElCaminoDev1\\Assets\\_Scripts\\InventoryManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\InventoryManager.cs",
+              "ToolTip": "C:\\Users\\andre\\ElCaminoDev1\\Assets\\_Scripts\\InventoryManager.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\InventoryManager.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAAGcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T08:19:36.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InventorySlot.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\ElCaminoDev1\\Assets\\_Scripts\\InventorySlot.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\InventorySlot.cs",
+              "ToolTip": "C:\\Users\\andre\\ElCaminoDev1\\Assets\\_Scripts\\InventorySlot.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\InventorySlot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T08:16:14.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InventoryItem.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\ElCaminoDev1\\Assets\\_Scripts\\InventoryItem.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\InventoryItem.cs",
+              "ToolTip": "C:\\Users\\andre\\ElCaminoDev1\\Assets\\_Scripts\\InventoryItem.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\InventoryItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T07:56:11.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ItemSO.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\ElCaminoDev1\\Assets\\_Scripts\\ItemSO.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\ItemSO.cs",
+              "ToolTip": "C:\\Users\\andre\\ElCaminoDev1\\Assets\\_Scripts\\ItemSO.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\ItemSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T07:44:13.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\ElCaminoDev1\\Assets\\_Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\andre\\ElCaminoDev1\\Assets\\_Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\PlayerController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAqwG4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T07:07:54.649Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
